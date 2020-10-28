@@ -1,0 +1,5 @@
+newmtl woodtexture
+map_Kd woodtexture.png
+Kd 0.7058824 0.7058824 0.7058824
+d 1
+
